@@ -1,0 +1,30 @@
+{
+    "characters": [
+        {
+            "name": "Vincent Vega",
+            "actor": "John Travolta",
+            "description": "A hitman who is cool and charming, but also flawed and impulsive."
+        },
+        {
+            "name": "Jules Winnfield",
+            "actor": "Samuel L. Jackson",
+            "description": "A philosophical and imposing hitman with a penchant for quoting scripture."
+        },
+        {
+            "name": "Mia Wallace",
+            "actor": "Uma Thurman",
+            "description": "The boss' wife, a seductive and mysterious woman with a love for dancing and cocaine."
+        },
+        {
+            "name": "Butch Coolidge",
+            "actor": "Bruce Willis",
+            "description": "A disillusioned boxer caught in a web of dangerous situations."
+        },
+        {
+            "name": "The Wolf",
+            "actor": "Harvey Keitel",
+            "description": "A fixer known for his problem-solving skills and ability to clean up messy situations."
+        }
+    ]
+  }
+  
