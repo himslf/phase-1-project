@@ -26,7 +26,7 @@ a {
 
 /* Header */
 header {
-    background-color: #222;
+    background-color: #bdb847;
     color: #fff;
     padding: 20px;
 }
@@ -79,6 +79,22 @@ nav ul li a {
   
     li {
         margin-bottom: 10px;
+    }
+
+    #about {
+        background-color: #00ccff;
+    }
+      
+    #characters {
+        background-color: #ff99cc;
+    }
+      
+    #scenes {
+        background-color: #99ffcc;
+    }
+      
+    #soundtrack {
+        background-color: #ffcc99;
     }
 
 
