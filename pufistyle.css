@@ -5,7 +5,7 @@ body {
         line-height: 1.5;
         margin: 0;
         padding: 0;
-        background-color: #f5f5f5;
+        background-color: #e3dbdb;
 }
   
 .container {
@@ -17,6 +17,11 @@ body {
 h1, h2, h3 {
     font-weight: bold;
 }
+
+h2 {
+    color: #d03131;
+    font-family: 'Times New Roman', Times, serif;
+}
   
 a {
     text-decoration: none;
@@ -26,9 +31,11 @@ a {
 
 /* Header */
 header {
+    background: linear-gradient(135deg, #ab1f2b, #ffcc00);
     background-color: #bdb847;
     color: #fff;
     padding: 20px;
+    margin-bottom: 0.4%;
 }
   
 header h1 {
@@ -55,6 +62,7 @@ nav ul li a {
 
 /* Main Content */
     main {
+        background: linear-gradient(135deg, #e9ad2b, #861537);
         background-color: #fff;
         padding: 20px;
     }
